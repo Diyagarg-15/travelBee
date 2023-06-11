@@ -39,7 +39,7 @@ Travel Website is a React application that uses React Hooks and React Router for
 ## Usage 📋
 <p>To run this project in your device,clone the repository and open terminal in your editor. Followig are the requirements to run this project:</p><h5>Code Examples</h5><ul>
 <li>Clone the project</li>
-</ul><p><code>git clone https://github.com/letnagao/travel-website.git </code></p><ul>
+</ul><p><code>git clone https://github.com/Diyagarg-15/travelBee </code></p><ul>
 <li>Go to the project directory</li>
 </ul><p><code>cd travel-website </code></p><ul>
 <li>Install dependencies</li>
